@@ -213,6 +213,27 @@ overflow: hidden;
     background-color: #f4f4fd;
     border-radius: 4px;
     margin-bottom: 8px;
+    border: 1px solid var(--LIGHT-SLATE, #8E8F99);
+}
+.of{
+    background-image:url(../images/antenna\ 1\ \(1\)\ \(2\).svg);
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+.up{
+    background-image:url(../images/clock\ 1.svg);
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+.y{
+    background-image:url(../images/diagram\ 1.svg);
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+.x{
+    background-image:url(../images/astronaut\ 1.svg);
+   background-repeat: no-repeat;
+    background-position: center; 
 }
 .stategy-title {
 color:#2E2F42 ;
