@@ -205,7 +205,15 @@ overflow: hidden;
 .stategy-item{
     width: calc((100% - 72px) / 4);
 }
-
+.strategy-offers{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
 .stategy-title {
 color:#2E2F42 ;
 font-size: 20px;
