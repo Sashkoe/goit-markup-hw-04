@@ -231,6 +231,10 @@ margin-bottom: 8px;
     letter-spacing: 0.32px;
     width: 264px;
 }
+.strategy-icon{
+    margin: 24px 100px;
+    fill:none;
+}
 .section-team {
     background: #F4F4FD;
 
