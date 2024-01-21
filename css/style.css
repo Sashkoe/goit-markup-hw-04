@@ -1,4 +1,8 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 *, ::after, ::before{
     box-sizing: border-box;  
 }
@@ -71,10 +75,6 @@ display: flex;
      padding-bottom: 25.5px;
      padding-right: 0;
      margin-right: 76px;
-    }
-    .caret{
-        position: relative;
-        color: #404bbf; 
     }
     .logo-accent{
     color: #2E2F42;
