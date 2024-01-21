@@ -72,6 +72,10 @@ display: flex;
      padding-right: 0;
      margin-right: 76px;
     }
+    .caret{
+        position: relative;
+        color: #404bbf; 
+    }
     .logo-accent{
     color: #2E2F42;
     }
