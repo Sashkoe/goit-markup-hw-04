@@ -28,7 +28,6 @@ img {
 }
 .page-header-container{
 display: flex;
-align-items: center;
 
 }
 
@@ -126,6 +125,7 @@ text-transform: uppercase;
 
 .contacts{
     color: #434455;
+    text-decoration: none;
     font-size: 16px;
     font-style: normal;
     letter-spacing: 0.32px;
@@ -137,7 +137,6 @@ text-transform: uppercase;
   .address{
     display: flex;
     align-items: center;
-    text-decoration: none;
   }
   .contacts:hover{
     color: #404BBF;
