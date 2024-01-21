@@ -45,7 +45,7 @@ align-items: center;
 .page-header-nav{
 display: flex;
 align-items: center;
-
+margin-right: auto;
 }
 .nav-links{
     display: flex;
