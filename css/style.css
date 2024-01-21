@@ -93,7 +93,7 @@ img {
         position: relative;
         color: #404bbf;
     }
-    .carent::after {
+    .caret::after {
         position: absolute;
         left: 0;
         bottom: -1px;
