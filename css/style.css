@@ -335,8 +335,7 @@ text-align: center;
 }
 .portfolio-img{
     position: relative;
-    overflow-x: hidden;
-    overflow-y: hidden;
+ overflow: hidden;
 }
 .text-portfolio {
     position: absolute;
