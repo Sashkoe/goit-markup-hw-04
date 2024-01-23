@@ -472,9 +472,7 @@ ul {
 .ikon-footer{
     fill: #f4f4fd;
 }
-.icon-footer :hover{
+.icon-footer:hover{
     background: #404BBF; 
 }
-.icon-footer:focus{
-    background-color: #404BBF;
-}
+
