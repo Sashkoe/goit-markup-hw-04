@@ -469,6 +469,13 @@ ul {
     justify-content: center;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
 }
+.social-link-footer:focus{
+    background-color:#31D0AA ;
+}
+.social-link-footer:hover{
+    background-color:#31D0AA ;
+}
+
 .footer-page{
     align-items: baseline;
     display: flex;
@@ -478,12 +485,5 @@ ul {
 }
 .ikon-footer{
     fill: #f4f4fd;
-}
-
-.social-link-footer:focus{
-    background-color:#31D0AA ;
-}
-.social-link-footer:hover{
-    background-color:#31D0AA ;
 }
 
