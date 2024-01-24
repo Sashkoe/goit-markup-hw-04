@@ -480,4 +480,10 @@ ul {
     fill: #f4f4fd;
 }
 
+.social-link-footer:focus{
+    background-color:#31D0AA ;
+}
+.social-link-footer:hover{
+    background-color:#31D0AA ;
+}
 
