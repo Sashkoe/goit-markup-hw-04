@@ -142,6 +142,7 @@ max-width: 1440px;
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
+margin: 0 auto;
 }
 
 .hero-title {
@@ -279,6 +280,12 @@ margin-bottom: 8px;
     justify-content: center;
     align-items: center;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.social-link :focus{
+    background-color:#404BBF ;
+}
+.social-link:hover{
+    background-color: #404BBF;
 }
 .social-ikon{
     fill: #f4f4fd; 
